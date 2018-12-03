@@ -4,6 +4,7 @@ for demo purpose only
 
 open folder Actuator  for the example app
 
+java endpoints to trigger chaos monkey is written in actuator
 at a later date I will add an angular management console
 
 endpoint as enabled through actuator can be found in below link
